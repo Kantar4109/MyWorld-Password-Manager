@@ -160,15 +160,54 @@
 bc57b11c907ef3a9096e2a1c2db25e94857b96b56ee5c9e907147b3239c818d0
 ```
 
+**Verify in PowerShell:**
+```powershell
+(Get-FileHash -Algorithm SHA256 .\MyWorld_Setup_2.0.0.exe).Hash
+```
+
+---
+
+## ⚠️ Windows SmartScreen Warning
+
+When you run the installer, Windows may show a **"Windows protected your PC"** warning. This is normal for independent software that isn't signed with a paid code signing certificate.
+
+<details>
+<summary><strong>Why does this happen?</strong></summary>
+<br>
+
+MyWorld is an **independent, open-source project**. Code signing certificates cost $300-600/year, which is not feasible for a free application. This warning does **NOT** mean the software is dangerous — it simply means Windows doesn't recognize the publisher.
+
+**MyWorld is safe because:**
+- Source architecture is documented
+- SHA-256 hash provided for verification
+- Ed25519 signed updates
+- No network connections (fully offline)
+- No data collection or telemetry
+
+</details>
+
+### How to Install Anyway
+
+| Step | Action |
+|:----:|--------|
+| 1 | Click **"More info"** on the SmartScreen popup |
+| 2 | Click **"Run anyway"** button that appears |
+| 3 | Continue with installation |
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Tip-Verify%20SHA--256%20hash%20before%20installing-yellow?style=flat-square" alt="Tip">
+</p>
+
 ---
 
 ## 🚀 Installation
 
 ```
 1. Download    →  MyWorld_Setup_2.0.0.exe
-2. Run         →  Double-click installer
-3. Install     →  Follow the wizard
-4. Launch      →  Desktop shortcut or Start menu
+2. Verify      →  Check SHA-256 hash (optional but recommended)
+3. Run         →  Click "More info" → "Run anyway" if SmartScreen appears
+4. Install     →  Follow the wizard
+5. Launch      →  Desktop shortcut or Start menu
 ```
 
 ### First Launch
