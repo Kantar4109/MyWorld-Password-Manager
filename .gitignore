@@ -221,6 +221,7 @@ Dockerfile
 # ===================
 *.ico
 *.svg
+!assets/logo.svg
 main.py
 requirements.txt
 How To Run SERVERS_ARCHITECTURE.md
