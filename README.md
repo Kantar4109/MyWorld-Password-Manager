@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="ui/assets/images/myworld-logo.svg" alt="MyWorld Logo" width="120" height="120">
+  <img src="assets/logo.svg" alt="MyWorld Logo" width="120" height="120">
 </p>
 
 <h1 align="center">MyWorld</h1>
