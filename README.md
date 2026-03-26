@@ -1,25 +1,25 @@
 <p align="center">
-  <img src="ui/assets/images/myworld-logo.svg" alt="Password Manager Logo" width="120" height="120">
+  <img src="ui/assets/images/myworld-logo.svg" alt="MyWorld Logo" width="120" height="120">
 </p>
 
-<h1 align="center">Password Manager</h1>
+<h1 align="center">MyWorld</h1>
 
 <p align="center">
   <strong>Secure, Fast & Offline Password Management for Windows</strong>
 </p>
 
 <p align="center">
-  <a href="https://github.com/moneraldabai-ui/PasswordManager/releases/latest">
-    <img src="https://img.shields.io/github/v/release/moneraldabai-ui/PasswordManager?style=for-the-badge&color=5865F2" alt="Latest Release">
+  <a href="https://github.com/moneraldabai-ui/MyWorld/releases/latest">
+    <img src="https://img.shields.io/github/v/release/moneraldabai-ui/MyWorld?style=for-the-badge&color=5865F2" alt="Latest Release">
   </a>
-  <a href="https://github.com/moneraldabai-ui/PasswordManager/releases">
-    <img src="https://img.shields.io/github/downloads/moneraldabai-ui/PasswordManager/total?style=for-the-badge&color=5865F2" alt="Downloads">
+  <a href="https://github.com/moneraldabai-ui/MyWorld/releases">
+    <img src="https://img.shields.io/github/downloads/moneraldabai-ui/MyWorld/total?style=for-the-badge&color=5865F2" alt="Downloads">
   </a>
   <a href="LICENSE">
-    <img src="https://img.shields.io/github/license/moneraldabai-ui/PasswordManager?style=for-the-badge&color=5865F2" alt="License">
+    <img src="https://img.shields.io/github/license/moneraldabai-ui/MyWorld?style=for-the-badge&color=5865F2" alt="License">
   </a>
-  <a href="https://github.com/moneraldabai-ui/PasswordManager/stargazers">
-    <img src="https://img.shields.io/github/stars/moneraldabai-ui/PasswordManager?style=for-the-badge&color=5865F2" alt="Stars">
+  <a href="https://github.com/moneraldabai-ui/MyWorld/stargazers">
+    <img src="https://img.shields.io/github/stars/moneraldabai-ui/MyWorld?style=for-the-badge&color=5865F2" alt="Stars">
   </a>
 </p>
 
@@ -34,11 +34,11 @@
 
 ---
 
-## Why Password Manager?
+## Why MyWorld?
 
 Still using the same password everywhere? Storing passwords in a text file? Forgetting credentials constantly?
 
-**Password Manager** is a secure, offline password vault that keeps all your credentials encrypted and organized. No cloud, no subscriptions, no data collection — your passwords stay on your device, protected by military-grade encryption.
+**MyWorld** is a secure, offline password vault that keeps all your credentials encrypted and organized. No cloud, no subscriptions, no data collection — your passwords stay on your device, protected by military-grade encryption.
 
 ---
 
@@ -117,12 +117,11 @@ Still using the same password everywhere? Storing passwords in a text file? Forg
 
 ## 📥 Download
 
-### Latest Release: v1.0.0
+### Latest Release: v2.0.0
 
 | Type | Download | Description |
 |------|----------|-------------|
-| **Installer** | [PasswordManager-1.0.0-Setup.exe](https://github.com/moneraldabai-ui/PasswordManager/releases/download/v1.0.0/PasswordManager-1.0.0-Setup.exe) | Recommended - Full installation |
-| **Portable** | [PasswordManager-1.0.0-Portable.zip](https://github.com/moneraldabai-ui/PasswordManager/releases/download/v1.0.0/PasswordManager-1.0.0-Portable.zip) | No installation required |
+| **Installer** | [MyWorld_Setup_2.0.0.exe](https://github.com/moneraldabai-ui/MyWorld/releases/download/v2.0.0/MyWorld_Setup_2.0.0.exe) | Recommended - Full installation |
 
 > **Requirements:** Windows 10/11 (64-bit) • 4 GB RAM • 100 MB disk space
 
@@ -131,16 +130,10 @@ Still using the same password everywhere? Storing passwords in a text file? Forg
 ## 🚀 Installation
 
 ### Option 1: Installer (Recommended)
-1. Download the [latest installer](https://github.com/moneraldabai-ui/PasswordManager/releases/latest)
-2. Run `PasswordManager-1.0.0-Setup.exe`
+1. Download the [latest installer](https://github.com/moneraldabai-ui/MyWorld/releases/latest)
+2. Run `MyWorld_Setup_2.0.0.exe`
 3. Follow the installation wizard
 4. Launch from desktop or Start menu
-
-### Option 2: Portable Version
-1. Download `PasswordManager-1.0.0-Portable.zip`
-2. Extract to your preferred location
-3. Run `PasswordManager.exe`
-4. Your data stays in the same folder — perfect for USB drives
 
 ---
 
@@ -210,7 +203,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ## ⭐ Support
 
-If you find Password Manager useful, please consider:
+If you find MyWorld useful, please consider:
 
 - **Starring** this repository ⭐
 - **Sharing** with friends and colleagues
@@ -223,6 +216,6 @@ If you find Password Manager useful, please consider:
 </p>
 
 <p align="center">
-  <a href="https://github.com/moneraldabai-ui/PasswordManager/issues">Report Bug</a> •
-  <a href="https://github.com/moneraldabai-ui/PasswordManager/issues">Request Feature</a>
+  <a href="https://github.com/moneraldabai-ui/MyWorld/issues">Report Bug</a> •
+  <a href="https://github.com/moneraldabai-ui/MyWorld/issues">Request Feature</a>
 </p>
