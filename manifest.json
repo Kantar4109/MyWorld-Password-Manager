@@ -1,0 +1,40 @@
+{
+  "schema_version": "2",
+  "version": "2.0.0",
+  "generated_at": "2026-03-26T12:00:00Z",
+  "channels": {
+    "stable": {
+      "version": "2.0.0",
+      "release_date": "2026-03-26T12:00:00Z",
+      "release_notes": "## Version 2.0.0\n- Major release with enhanced security\n- Secure password storage with AES-256 encryption\n- Password generator with customizable rules\n- Offline-first design\n- Auto-update system with Ed25519 signatures",
+      "minimum_version": "1.0.0",
+      "files": {
+        "windows": {
+          "url": "https://github.com/moneraldabai-ui/MyWorld/releases/download/v2.0.0/MyWorld_Setup_2.0.0.exe",
+          "filename": "MyWorld_Setup_2.0.0.exe",
+          "size": 30807076,
+          "sha256": "bc57b11c907ef3a9096e2a1c2db25e94857b96b56ee5c9e907147b3239c818d0",
+          "signature": "QW6iVgpSgGL96NiI+u7LA2Z2ew9KDTa+R0OeFqMOgNHEsbgf2UNl3FWjscXpkva50Knmik4PBH0gZ0KZaoCxDQ=="
+        },
+        "linux": {
+          "url": "https://github.com/moneraldabai-ui/MyWorld/releases/download/v2.0.0/MyWorld-2.0.0-linux.AppImage",
+          "filename": "MyWorld-2.0.0-linux.AppImage",
+          "size": 0,
+          "sha256": "PENDING_LINUX_BUILD",
+          "signature": "PENDING_LINUX_BUILD"
+        },
+        "macos": {
+          "url": "https://github.com/moneraldabai-ui/MyWorld/releases/download/v2.0.0/MyWorld-2.0.0-macos.dmg",
+          "filename": "MyWorld-2.0.0-macos.dmg",
+          "size": 0,
+          "sha256": "PENDING_MACOS_BUILD",
+          "signature": "PENDING_MACOS_BUILD"
+        }
+      }
+    }
+  },
+  "minimum_version": "1.0.0",
+  "release_date": "2026-03-26T12:00:00Z",
+  "release_notes": "## Version 2.0.0\n- Major release with enhanced security\n- Secure password storage with AES-256 encryption\n- Password generator with customizable rules\n- Offline-first design\n- Auto-update system with Ed25519 signatures",
+  "release_notes_url": "https://github.com/moneraldabai-ui/MyWorld/releases/tag/v2.0.0"
+}

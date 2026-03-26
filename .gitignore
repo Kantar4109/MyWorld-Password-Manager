@@ -1,0 +1,228 @@
+# ===================
+# Source Code (Private)
+# ===================
+/src/
+/source/
+/api/
+/bridge/
+/core/
+/ui/
+/scripts/
+/tools/
+/tests/
+/static/
+/config/
+/deployment/
+*.cs
+*.cpp
+*.c
+*.h
+*.hpp
+*.py
+*.js
+*.ts
+*.java
+*.kt
+*.swift
+*.go
+*.rs
+*.rb
+*.php
+
+# ===================
+# Build Artifacts
+# ===================
+/bin/
+/obj/
+/build/
+/dist/
+/out/
+/target/
+/release/
+/debug/
+*.exe
+*.dll
+*.so
+*.dylib
+*.pdb
+*.ilk
+*.exp
+*.lib
+*.a
+*.o
+*.obj
+*.class
+*.jar
+*.war
+*.ear
+
+# ===================
+# Sensitive Files
+# ===================
+.env
+*.env
+*.env.*
+.env.local
+.env.*.local
+*.key
+*.pem
+*.p12
+*.pfx
+*.cer
+*.crt
+secrets.*
+.secrets.json
+credentials.*
+config.local.*
+appsettings.local.json
+appsettings.Development.json
+*.secret
+
+# ===================
+# IDE and Editor Files
+# ===================
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.ncb
+*.opensdf
+*.sdf
+*.cachefile
+*.VC.db
+*.VC.VC.opendb
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# JetBrains IDEs
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# Vim
+*.swp
+*.swo
+*~
+
+# Emacs
+*~
+\#*\#
+.#*
+
+# ===================
+# OS Generated Files
+# ===================
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+*.stackdump
+[Dd]esktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+*.lnk
+nul
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Linux
+.directory
+.Trash-*
+
+# ===================
+# Package Manager Files
+# ===================
+node_modules/
+packages/
+*.nupkg
+*.snupkg
+paket-files/
+
+# ===================
+# Python
+# ===================
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+venv/
+ENV/
+env/
+.pytest_cache/
+
+# ===================
+# Logs and Databases
+# ===================
+*.log
+*.logs
+logs/
+*.sqlite
+*.sqlite3
+*.db
+*.mdf
+*.ldf
+/data/
+
+# ===================
+# Temporary Files
+# ===================
+*.tmp
+*.temp
+*.bak
+*.backup
+*.cache
+.cache/
+tmp/
+temp/
+__session_cleared__
+
+# ===================
+# Test and Coverage
+# ===================
+/coverage/
+/test-results/
+*.coverage
+*.coveragexml
+TestResults/
+
+# ===================
+# Docker
+# ===================
+docker-compose.yml
+Dockerfile
+
+# ===================
+# Project Specific
+# ===================
+*.ico
+*.svg
+main.py
+requirements.txt
+How To Run SERVERS_ARCHITECTURE.md
+*.jpg
+.github/
