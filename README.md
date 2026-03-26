@@ -1,11 +1,5 @@
 <p align="center">
-  <img src="assets/logo.svg" alt="MyWorld Logo" width="140" height="140">
-</p>
-
-<h1 align="center">MyWorld</h1>
-
-<p align="center">
-  <strong>Secure, Fast & Offline Password Management for Windows</strong>
+  <img src="assets/social-preview.png" alt="MyWorld - Secure, Fast & Offline Password Manager" width="100%">
 </p>
 
 <p align="center">
@@ -45,22 +39,6 @@
 > Still using the same password everywhere? Storing passwords in a text file? Forgetting credentials constantly?
 
 **MyWorld** is a secure, offline password vault that keeps all your credentials encrypted and organized. No cloud, no subscriptions, no data collection — your passwords stay on your device, protected by military-grade encryption.
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                         YOUR DEVICE                              │
-│  ┌───────────────────────────────────────────────────────────┐  │
-│  │                    MYWORLD VAULT                           │  │
-│  │                                                            │  │
-│  │   🔐 AES-256 Encrypted    📁 Organized Categories         │  │
-│  │   🔑 Password Generator   🔍 Instant Search               │  │
-│  │   📋 Auto-Clear Clipboard 💾 Secure Backup                │  │
-│  │                                                            │  │
-│  └───────────────────────────────────────────────────────────┘  │
-│                                                                  │
-│              ❌ NO CLOUD  •  ❌ NO SYNC  •  ❌ NO TELEMETRY      │
-└─────────────────────────────────────────────────────────────────┘
-```
 
 ---
 
