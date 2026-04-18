@@ -10,17 +10,17 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/moneraldabai-ui/MyWorld-Password-Manager/releases/latest">
-    <img src="https://img.shields.io/github/v/release/moneraldabai-ui/MyWorld-Password-Manager?style=for-the-badge&color=5865F2&label=Version" alt="Latest Release">
+  <a href="https://github.com/moner-dev/MyWorld-Password-Manager/releases/latest">
+    <img src="https://img.shields.io/github/v/release/moner-dev/MyWorld-Password-Manager?style=for-the-badge&color=5865F2&label=Version" alt="Latest Release">
   </a>
-  <a href="https://github.com/moneraldabai-ui/MyWorld-Password-Manager/releases">
-    <img src="https://img.shields.io/github/downloads/moneraldabai-ui/MyWorld-Password-Manager/total?style=for-the-badge&color=5865F2" alt="Downloads">
+  <a href="https://github.com/moner-dev/MyWorld-Password-Manager/releases">
+    <img src="https://img.shields.io/github/downloads/moner-dev/MyWorld-Password-Manager/total?style=for-the-badge&color=5865F2" alt="Downloads">
   </a>
   <a href="LICENSE">
-    <img src="https://img.shields.io/github/license/moneraldabai-ui/MyWorld-Password-Manager?style=for-the-badge&color=5865F2" alt="License">
+    <img src="https://img.shields.io/github/license/moner-dev/MyWorld-Password-Manager?style=for-the-badge&color=5865F2" alt="License">
   </a>
-  <a href="https://github.com/moneraldabai-ui/MyWorld-Password-Manager/stargazers">
-    <img src="https://img.shields.io/github/stars/moneraldabai-ui/MyWorld-Password-Manager?style=for-the-badge&color=5865F2" alt="Stars">
+  <a href="https://github.com/moner-dev/MyWorld-Password-Manager/stargazers">
+    <img src="https://img.shields.io/github/stars/moner-dev/MyWorld-Password-Manager?style=for-the-badge&color=5865F2" alt="Stars">
   </a>
 </p>
 
